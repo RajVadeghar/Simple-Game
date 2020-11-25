@@ -200,7 +200,7 @@ def main():
              os.system('cls')
              print('Invaild number!!!\n')
              wrong_password()
-        password='Raj@1111'
+        password='12345678'
         input_pass=str(input('Enter the password : '))
         if input_pass == password:
            print('\n\t\tCorrect Password!!!')
