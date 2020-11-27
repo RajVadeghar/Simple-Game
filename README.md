@@ -4,6 +4,6 @@ Password is 12345678
 
 
 ## To run this file
-- Clone this file using git clone "https://github.com/RajVadeghar/Simple-Game.git"
+- Clone this file using git clone https://github.com/RajVadeghar/Simple-Game.git
 - then run cd Sime-Game/src
 - then run python small_programs.py
